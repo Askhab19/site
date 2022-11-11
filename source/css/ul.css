@@ -1,0 +1,6 @@
+.ibg {
+  background-repeat: no-repeat;
+  border-style: cover;
+  background-position: center; }
+  .ibg img {
+    display: none; }
